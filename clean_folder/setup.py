@@ -9,4 +9,4 @@ setup(
     entry_points={"console_scripts": [
         "clean-folder=clean_folder.clean:main"]
     }
-)11
+)
